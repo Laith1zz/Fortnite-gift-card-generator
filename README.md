@@ -28,10 +28,10 @@ py main.py
 ```
 * Enjoy
 # For any help / questions / requests
-Contact me [here](https://discord.gg/GhCpAc7G)!
+Contact me [here](https://discord.gg/P8sKTTndqk)!
 # Contributors 
 MagCecu
 
 # External links
 * https://t.me/OneandOnlyMag
-* https://discord.gg/GhCpAc7G
+* https://discord.gg/P8sKTTndqk
