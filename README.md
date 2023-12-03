@@ -3,6 +3,7 @@ Gift card/ Vbucks generator made in python. Uses requests to the official api.
 <p align="center">
   <img src="img.png">
 </p>
+
 # How it works
 * Generates a random 16 digit string with the with the same list used in the official gift cards
 * Requests it to the api and waits for a code return
