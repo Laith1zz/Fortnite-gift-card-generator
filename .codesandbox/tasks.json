@@ -3,5 +3,11 @@
   "setupTasks": [],
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
-  "tasks": {}
+  "tasks": {
+    "https://github.com/magcecu/Fortnite-gift-card-generator.git": {
+      "name": "https://github.com/magcecu/Fortnite-gift-card-generator.git",
+      "command": "https://github.com/magcecu/Fortnite-gift-card-generator.git",
+      "runAtStart": true
+    }
+  }
 }
